@@ -1,0 +1,8 @@
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\物体抓取.csprojResolveAssemblyReference.cache
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\MainWindow.baml
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\MainWindow.g.cs
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\App.g.cs
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\物体抓取_MarkupCompile.cache
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\物体抓取.g.resources
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\物体抓取.Properties.Resources.resources
+E:\playboy\finalmaybe\objection_recognize\物体抓取\obj\Release\物体抓取.csproj.GenerateResource.Cache
