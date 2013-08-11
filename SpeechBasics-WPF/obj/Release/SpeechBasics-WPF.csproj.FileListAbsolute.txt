@@ -1,0 +1,14 @@
+E:\playboy\SpeechBasics-WPF\bin\Release\MediaElement\voice.wma
+E:\playboy\SpeechBasics-WPF\bin\Release\SpeechBasics-WPF.exe
+E:\playboy\SpeechBasics-WPF\bin\Release\SpeechBasics-WPF.pdb
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+E:\playboy\SpeechBasics-WPF\obj\Release\MainWindow.baml
+E:\playboy\SpeechBasics-WPF\obj\Release\MainWindow.g.cs
+E:\playboy\SpeechBasics-WPF\obj\Release\App.g.cs
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF_Content.g.cs
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF_MarkupCompile.cache
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF.g.resources
+E:\playboy\SpeechBasics-WPF\obj\Release\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF.csproj.GenerateResource.Cache
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF.exe
+E:\playboy\SpeechBasics-WPF\obj\Release\SpeechBasics-WPF.pdb

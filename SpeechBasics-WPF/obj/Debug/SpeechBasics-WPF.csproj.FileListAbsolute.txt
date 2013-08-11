@@ -1,0 +1,67 @@
+D:\robotic\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+D:\robotic\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+D:\robotic\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+D:\robotic\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+D:\robotic\SpeechBasics-WPF\obj\Debug\App.g.cs
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+D:\robotic\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+D:\robotic\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_Content.g.cs
+D:\robotic\SpeechBasics-WPF\bin\Debug\MediaElement\voice.wma
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\bin\Debug\MediaElement\voice.wma
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_Content.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+I:\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+I:\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+I:\playboy\SpeechBasics-WPF\obj\Debug\App.g.cs
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_Content.g.cs
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+I:\playboy\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+I:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+E:\playboy\SpeechBasics-WPF\bin\Debug\MediaElement\voice.wma
+E:\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+E:\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+E:\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+E:\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+E:\playboy\SpeechBasics-WPF\obj\Debug\App.g.cs
+E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_Content.g.cs
+E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+E:\playboy\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\MediaElement\voice.wma
+E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
+E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.baml
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\App.g.cs
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_Content.g.cs
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF_MarkupCompile.cache
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.g.resources
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SpeechBasics.Properties.Resources.resources
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
+E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
+E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe.config

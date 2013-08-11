@@ -1,0 +1,33 @@
+﻿<Controls:MetroWindow
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:k="http://schemas.microsoft.com/kinect/2013" x:Class="eventrecord.MainWindow"
+        ShowTitleBar="false"
+        ShowIconOnTitleBar="False"
+        Title="MainWindow" Height="768" Width="1366" Loaded="MetroWindow_Loaded" Closed="MetroWindow_Closed_1">
+    <Controls:MetroWindow.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colours.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Controls:MetroWindow.Resources>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="451*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Calendar x:Name="calendar" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="178" Width="189" DisplayDate="2013-07-01" SelectedDatesChanged="calendar_SelectedDatesChanged" />
+        <k:KinectUserViewer HorizontalAlignment="Left" Height="152" Margin="10,577,0,0" VerticalAlignment="Top" Width="189" RenderTransformOrigin="0.473,0.46" k:KinectRegion.KinectRegion="{Binding ElementName=kinectRegion1}"/>
+        <k:KinectRegion HorizontalAlignment="Left" x:Name="kinectRegion1" VerticalAlignment="Top" Margin="204,10,0,-0.667" Height="730" Width="1139" >
+            <k:KinectScrollViewer VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Auto" VerticalAlignment="Bottom" Height="720" Width="1139">
+                <StackPanel Orientation="Horizontal" Name="scrollContent" />
+            </k:KinectScrollViewer>
+        </k:KinectRegion>
+    </Grid>
+</Controls:MetroWindow>

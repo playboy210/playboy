@@ -1,0 +1,15 @@
+E:\工程\iFlyTTS\iFlyDotNet\bin\Release\iFlyDotNet.dll
+E:\工程\iFlyTTS\iFlyDotNet\bin\Release\iFlyDotNet.pdb
+E:\工程\iFlyTTS\iFlyDotNet\obj\Release\iFlyDotNet.dll
+E:\工程\iFlyTTS\iFlyDotNet\obj\Release\iFlyDotNet.pdb
+E:\工程\iFlyTTS\iFlyDotNet\bin\Release\NAudio.dll
+E:\工程\iFlyTTS\iFlyDotNet\obj\Release\iFlyDotNet.iFlyResource.resources
+E:\工程\iFlyTTS\iFlyDotNet\obj\Release\iFlyDotNet.csproj.GenerateResource.Cache
+E:\playboy\iFlyDotNet\bin\Release\iFlyDotNet.dll
+E:\playboy\iFlyDotNet\bin\Release\iFlyDotNet.pdb
+E:\playboy\iFlyDotNet\bin\Release\NAudio.dll
+E:\playboy\iFlyDotNet\obj\Release\iFlyDotNet.csprojResolveAssemblyReference.cache
+E:\playboy\iFlyDotNet\obj\Release\iFlyDotNet.iFlyResource.resources
+E:\playboy\iFlyDotNet\obj\Release\iFlyDotNet.csproj.GenerateResource.Cache
+E:\playboy\iFlyDotNet\obj\Release\iFlyDotNet.dll
+E:\playboy\iFlyDotNet\obj\Release\iFlyDotNet.pdb

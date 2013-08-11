@@ -1,0 +1,48 @@
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\.Debug\KinectInteraction170_32.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\.Debug\KinectInteraction170_64.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\finalmaybe\.Debug\KinectInteraction170_32.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\finalmaybe\.Debug\KinectInteraction170_64.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\finalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\finalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+g:\c#\物体抓取\.Debug\KinectInteraction170_32.dll
+g:\c#\物体抓取\.Debug\KinectInteraction170_64.dll
+g:\c#\物体抓取\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+g:\c#\物体抓取\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+I:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+I:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+I:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+I:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+I:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+I:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\playboy\finalmaybe\.Debug\KinectInteraction170_32.dll
+E:\playboy\finalmaybe\.Debug\KinectInteraction170_64.dll
+E:\playboy\finalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\playboy\finalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\playboy\playboy\playboy\finalmaybe\.Debug\KinectInteraction170_32.dll
+E:\playboy\playboy\playboy\finalmaybe\.Debug\KinectInteraction170_64.dll
+E:\playboy\playboy\playboy\finalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\playboy\playboy\playboy\finalmaybe\.Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Themes\Generic.baml
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Debug\Microsoft.Kinect.Toolkit.Controls.pdb

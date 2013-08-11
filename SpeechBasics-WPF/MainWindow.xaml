@@ -1,0 +1,56 @@
+﻿<Window x:Class="Microsoft.Samples.Kinect.SpeechBasics.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Speech Basics" Height="600" Width="640"
+        Loaded="WindowLoaded" Closing="WindowClosing">
+    <Window.Resources>
+        <SolidColorBrush x:Key="MediumGreyBrush" Color="#ff6e6e6e"/>
+        <SolidColorBrush x:Key="LightGreyBrush" Color="#ffd2d2d2"/>
+        <SolidColorBrush x:Key="KinectPurpleBrush" Color="#ff52318f"/>
+        <Style TargetType="{x:Type Image}">
+            <Setter Property="SnapsToDevicePixels" Value="True"/>
+        </Style>
+    </Window.Resources>
+    
+    <Grid Margin="10 0 10 0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" Margin="0 0 0 20">
+            <Image DockPanel.Dock="Left" Source="Images\Logo.png" Stretch="Fill" Height="50" Width="170" HorizontalAlignment="Left" Margin="0 10 0 5"/>
+        </DockPanel>
+        <Viewbox Grid.Row="1" Stretch="Uniform">
+            <Canvas Name="playArea"  Width="600" Height="400">
+                <Canvas Name="turtle" Width="99.057" Height="128.859">
+                    <Canvas.RenderTransform>
+                        <TransformGroup>
+                            <TranslateTransform X="-49.5285" Y="-64.4295"/>
+                            <RotateTransform Angle="0" x:Name="turtleRotation"/>
+                            <TranslateTransform x:Name="turtleTranslation" X="300" Y="200"/>
+                        </TransformGroup>
+                    </Canvas.RenderTransform>
+                    <Path Fill="#FFA2A2A2" Data="F1 M 49.279,30.538 C 29.813,30.538 13.975,48.466 13.975,70.502 C 13.975,92.539 29.813,110.466 49.279,110.466 C 68.748,110.466 84.586,92.539 84.586,70.502 C 84.586,48.466 68.748,30.538 49.279,30.538 Z" Height="129" Canvas.Top="0" Width="92" Canvas.Left="0" />
+                </Canvas>
+                <TextBox Height="27" Name="textBox1" Width="105" Canvas.Left="10" Canvas.Top="9" />
+                <MediaElement Canvas.Left="11" Canvas.Top="42" Height="120" Name="mediaElement1" Width="160" LoadedBehavior="Manual" Source="MediaElement/voice.wma" MediaEnded="mediaElement1_MediaEnded" />
+                <Button Canvas.Left="130" Canvas.Top="10" Content="Button" Height="26" Name="button1" Width="73" Click="button1_Click" />
+                <Button Canvas.Left="458" Canvas.Top="338" Height="48" Name="button2" Width="122" Click="button2_Click">
+                    <Button.Background>
+                        <ImageBrush ImageSource="/SpeechBasics-WPF;component/Images/exit_icon.png" />
+                    </Button.Background>
+                </Button>
+            </Canvas>
+        </Viewbox>
+        <TextBlock Grid.Row="2" HorizontalAlignment="Center" FontSize="16" Margin="0 10 0 10" Foreground="{StaticResource MediumGreyBrush}">
+            Say: "<Span Name="forwardSpan">Forward</Span>", "<Span Name="backSpan">Back</Span>", "<Span Name="leftSpan">Turn Left</Span>" or "<Span Name="rightSpan">Turn Right</Span>"
+        </TextBlock>
+        <StatusBar Grid.Row="3" Height="23" HorizontalAlignment="Stretch" Name="statusBar" VerticalAlignment="Bottom" Background="White" Foreground="{StaticResource MediumGreyBrush}" ItemsSource="{Binding}">
+            <StatusBarItem Padding="0">
+                <TextBlock Name="statusBarText"></TextBlock>
+            </StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

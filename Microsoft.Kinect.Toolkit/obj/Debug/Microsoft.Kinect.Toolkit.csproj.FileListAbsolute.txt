@@ -1,0 +1,58 @@
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Program Files\Microsoft SDKs\Kinect\Developer Toolkit v1.7.0\Samples\C#\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+I:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.g.resources
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache

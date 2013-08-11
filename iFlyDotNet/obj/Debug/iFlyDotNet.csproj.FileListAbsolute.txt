@@ -1,0 +1,16 @@
+E:\工程\iFlyTTS\iFlyDotNet\bin\Debug\iFlyDotNet.dll
+E:\工程\iFlyTTS\iFlyDotNet\bin\Debug\iFlyDotNet.pdb
+E:\工程\iFlyTTS\iFlyDotNet\obj\Debug\iFlyDotNet.dll
+E:\工程\iFlyTTS\iFlyDotNet\obj\Debug\iFlyDotNet.pdb
+E:\工程\iFlyTTS\iFlyDotNet\bin\Debug\NAudio.dll
+E:\工程\iFlyTTS\iFlyDotNet\obj\Debug\iFlyDotNet.iFlyResource.resources
+E:\工程\iFlyTTS\iFlyDotNet\obj\Debug\iFlyDotNet.csproj.GenerateResource.Cache
+E:\工程\iFlyTTS\iFlyDotNet\obj\Debug\iFlyDotNet.csprojResolveAssemblyReference.cache
+E:\playboy\iFlyDotNet\bin\Debug\iFlyDotNet.dll
+E:\playboy\iFlyDotNet\bin\Debug\iFlyDotNet.pdb
+E:\playboy\iFlyDotNet\bin\Debug\NAudio.dll
+E:\playboy\iFlyDotNet\obj\Debug\iFlyDotNet.csprojResolveAssemblyReference.cache
+E:\playboy\iFlyDotNet\obj\Debug\iFlyDotNet.iFlyResource.resources
+E:\playboy\iFlyDotNet\obj\Debug\iFlyDotNet.csproj.GenerateResource.Cache
+E:\playboy\iFlyDotNet\obj\Debug\iFlyDotNet.dll
+E:\playboy\iFlyDotNet\obj\Debug\iFlyDotNet.pdb

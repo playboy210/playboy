@@ -1,0 +1,43 @@
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\FaceTrackData.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\FaceTrackLib.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\KinectInteraction170_32.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\KinectInteraction170_64.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\fianalmaybe.exe
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\fianalmaybe.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.csprojResolveAssemblyReference.cache
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\MainWindow.baml
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\App.g.cs
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe_MarkupCompile.cache
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.g.resources
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.Properties.Resources.resources
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.csproj.GenerateResource.Cache
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.exe
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\MediaElement\voice.wma
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\SpeechBasics-WPF.exe
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\SpeechBasics-WPF.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\FaceTrackMainWindow.baml
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\FaceTrackMainWindow.g.cs
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\login.baml
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\login.g.cs
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Monitor.exe
+C:\Users\Scott Zhuang\Documents\playboy210程序\fianalmaybe\fianalmaybe\bin\x64\Debug\Monitor.pdb
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.csprojResolveAssemblyReference.cache
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\FaceTrackMainWindow.baml
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\login.baml
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\FaceTrackMainWindow.g.cs
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\login.g.cs
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\App.g.cs
+E:\playboy210程序\fianalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe_MarkupCompile.cache
+C:\Users\Scott Zhuang\Documents\playboy210程序\finalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.exe
+C:\Users\Scott Zhuang\Documents\playboy210程序\finalmaybe\fianalmaybe\obj\x64\Debug\fianalmaybe.pdb

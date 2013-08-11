@@ -1,0 +1,8 @@
+E:\playboy\iFlyDotNet\bin\x86\Debug\iFlyDotNet.dll
+E:\playboy\iFlyDotNet\bin\x86\Debug\iFlyDotNet.pdb
+E:\playboy\iFlyDotNet\bin\x86\Debug\NAudio.dll
+E:\playboy\iFlyDotNet\obj\x86\Debug\iFlyDotNet.csprojResolveAssemblyReference.cache
+E:\playboy\iFlyDotNet\obj\x86\Debug\iFlyDotNet.iFlyResource.resources
+E:\playboy\iFlyDotNet\obj\x86\Debug\iFlyDotNet.csproj.GenerateResource.Cache
+E:\playboy\iFlyDotNet\obj\x86\Debug\iFlyDotNet.dll
+E:\playboy\iFlyDotNet\obj\x86\Debug\iFlyDotNet.pdb

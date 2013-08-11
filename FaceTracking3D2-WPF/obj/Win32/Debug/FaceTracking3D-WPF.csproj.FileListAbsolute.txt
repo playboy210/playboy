@@ -1,0 +1,72 @@
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\yh\Desktop\ROBO\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\yh\Desktop\ROBO\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+G:\新建文件夹\554061945\FileRecv\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+G:\新建文件夹\554061945\FileRecv\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\robo\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\robo\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.g.cs
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\App.g.cs
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackData.dll
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTrackLib.dll
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\MainWindow.baml
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+N:\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\FaceTrackData.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\FaceTrackLib.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\bin\x86\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\MainWindow.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\App.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\TexturedFaceMeshViewer.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\MainWindow.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\Win32\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache

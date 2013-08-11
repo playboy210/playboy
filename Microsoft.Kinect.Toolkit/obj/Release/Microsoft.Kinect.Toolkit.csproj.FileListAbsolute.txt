@@ -1,0 +1,13 @@
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
+E:\playboy\Microsoft.Kinect.Toolkit\bin\Release\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.baml
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\KinectSensorChooserUI.g.cs
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit_MarkupCompile.cache
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.g.resources
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.Properties.Resources.resources
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.dll
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\Microsoft.Kinect.Toolkit\obj\Release\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache

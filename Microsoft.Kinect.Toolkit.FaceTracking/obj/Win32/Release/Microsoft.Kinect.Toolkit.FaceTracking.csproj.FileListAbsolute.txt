@@ -1,0 +1,7 @@
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\FaceTrackData.dll
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\FaceTrackLib.dll
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x86\Release\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Release\Microsoft.Kinect.Toolkit.FaceTracking.csprojResolveAssemblyReference.cache
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Release\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\playboy\Microsoft.Kinect.Toolkit.FaceTracking\obj\Win32\Release\Microsoft.Kinect.Toolkit.FaceTracking.pdb

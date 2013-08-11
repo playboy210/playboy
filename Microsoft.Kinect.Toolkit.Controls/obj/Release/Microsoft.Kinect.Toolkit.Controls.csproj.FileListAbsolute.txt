@@ -1,0 +1,12 @@
+E:\playboy\finalmaybe\.Release\KinectInteraction170_32.dll
+E:\playboy\finalmaybe\.Release\KinectInteraction170_64.dll
+E:\playboy\finalmaybe\.Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\playboy\finalmaybe\.Release\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.csprojResolveAssemblyReference.cache
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.cache
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls_MarkupCompile.lref
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Themes\Generic.baml
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.g.resources
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.dll
+E:\playboy\Microsoft.Kinect.Toolkit.Controls\obj\Release\Microsoft.Kinect.Toolkit.Controls.pdb

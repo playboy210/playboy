@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceModel">
+    <Position X="1" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAoAAQAAACAgAAACAAAAAAEAAAAABAAAAAAEAAAAAAA=</HashCode>
+      <FileName>FaceModel.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceTracker">
+    <Position X="3.25" Y="1" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAJBIAAYAGAAYQCABiAwAEQASgAFBlgFAAIAIQSACAA=</HashCode>
+      <FileName>FaceTracker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceTrackFrame">
+    <Position X="6.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAoAAQAEACAgAIACAAYAAAAAAiAABAAAAgCAAAAAABA=</HashCode>
+      <FileName>FaceTrackFrame.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.FtInterop" Collapsed="true">
+    <Position X="10.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.NativeMethods" Collapsed="true">
+    <Position X="8.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.CameraConfig" Collapsed="true">
+    <Position X="8.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAABBAAgAwAQAAAAEAAAAAgAQAACAECAAAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.SensorData" Collapsed="true">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAACCAAAAACAAAAAAAAEAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.HeadPoints" Collapsed="true">
+    <Position X="12.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Microsoft.Kinect.Toolkit.FaceTracking.Image">
+    <Position X="15" Y="8.5" Width="2" />
+    <NestedTypes>
+      <Enum Name="Microsoft.Kinect.Toolkit.FaceTracking.Image.BufferManagement" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Image.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAGACAAACAACAAAAAAAQIAABgAAAAAAAAQAAAQ=</HashCode>
+      <FileName>Image.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Struct Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceTrackingSensorData" Collapsed="true">
+    <Position X="8.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAIAAAgAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.Kinect.Toolkit.FaceTracking.PointF" Collapsed="true">
+    <Position X="20.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAIAAAAAAAAAAIAAAABgAAAAYiA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.Kinect.Toolkit.FaceTracking.Point">
+    <Position X="21.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAIAAAAAAAAAAIAAAAAAAAAAYiA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.Kinect.Toolkit.FaceTracking.Rect" Collapsed="true">
+    <Position X="17" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAgAIQAEAAAAAIAIAACACAAAAAAiA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.Kinect.Toolkit.FaceTracking.Vector3DF" Collapsed="true">
+    <Position X="18.75" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAIAAAAAAAAAAIAAAAAAAAAAYiE=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceTriangle" Collapsed="true">
+    <Position X="17" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAQAAggEAAAIAAAAAAIAAAAAAAAAAAyA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="Microsoft.Kinect.Toolkit.FaceTracking.IFTImage" Collapsed="true">
+    <Position X="10.5" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAEAAAABAAAACAAAQBAAoAAAAAAAEAAAEAAIgg=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Microsoft.Kinect.Toolkit.FaceTracking.IFTResult" Collapsed="true">
+    <Position X="8.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAABAAAAAAAAAAEAAAAgAQAAAAAAAAAIAg=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Microsoft.Kinect.Toolkit.FaceTracking.IFTModel" Collapsed="true">
+    <Position X="12.25" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAQAAAAAAAAAAAAUAAAAAAAAAAAAAABAAAAAAQAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Microsoft.Kinect.Toolkit.FaceTracking.IFTFaceTracker" Collapsed="true">
+    <Position X="8.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAgAAAAQAQBQAAIAAAAAAAQAEAAAAAAEAAAAAACAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Microsoft.Kinect.Toolkit.FaceTracking.ErrorCode" Collapsed="true">
+    <Position X="8.75" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKAAAAAIAAAAQAAEABEAMEAAgAAAAAIABAAAABAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.Kinect.Toolkit.FaceTracking.OperationMode" Collapsed="true">
+    <Position X="12.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAEABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceTrackingImageFormat" Collapsed="true">
+    <Position X="10.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAgAEAgAAAAAAAAAAAQAAAAAAAAAAAAAEAQAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.Kinect.Toolkit.FaceTracking.AnimationUnit" Collapsed="true">
+    <Position X="17" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAQAAAgAAAAAAAABAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Microsoft.Kinect.Toolkit.FaceTracking.FeaturePoint" Collapsed="true">
+    <Position X="18.75" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABBgABIgLQEEAIIECAHJggUwqoEgQAADqSFSlBiYCg=</HashCode>
+      <FileName>Utils.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="Microsoft.Kinect.Toolkit.FaceTracking.FaceTrackingRegisterDepthToColor" Collapsed="true">
+    <Position X="8.75" Y="13" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAABABAAEAAAABAUAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FtInterop.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,45 @@
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\FaceTrackData.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\FaceTrackLib.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\FaceTracking3D-WPF.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\TexturedFaceMeshViewer.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\App.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\TexturedFaceMeshViewer.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\MainWindow.baml
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.g.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D.Properties.Resources.resources
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.exe
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.pdb
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\FaceTrackData.dll
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\FaceTrackLib.dll
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\FaceTracking3D-WPF.exe.config
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\FaceTracking3D-WPF.exe
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\FaceTracking3D-WPF.pdb
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.dll
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\bin\x64\Debug\Microsoft.Kinect.Toolkit.pdb
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.csprojResolveAssemblyReference.cache
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\TexturedFaceMeshViewer.g.cs
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\MainWindow.g.cs
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\App.g.cs
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF_MarkupCompile.cache
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF_MarkupCompile.lref
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\TexturedFaceMeshViewer.baml
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\MainWindow.baml
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.g.resources
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D.Properties.Resources.resources
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.csproj.GenerateResource.Cache
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.exe
+E:\playboy\playboy\playboy\FaceTracking3D-WPF\obj\x64\Debug\FaceTracking3D-WPF.pdb

@@ -1,0 +1,12 @@
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\FaceTrackData.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\FaceTrackLib.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.FaceTracking\obj\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\Microsoft.Kinect.Toolkit.FaceTracking\obj\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\FaceTrackData.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\FaceTrackLib.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.FaceTracking\bin\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.FaceTracking\obj\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit.FaceTracking\obj\x64\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb

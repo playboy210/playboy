@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventrecord", "eventrecord.csproj", "{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
