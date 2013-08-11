@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eventrecord", "schedule\eve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iFlyDotNet", "C:\Users\Scott Zhuang\Desktop\iFlyTTS\iFlyDotNet\iFlyDotNet.csproj", "{D214459D-0A65-49B1-9C98-39462BBF5508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passobjection", "objection_recognize\Passobjection\Passobjection.csproj", "{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passobjection", "Passobjection\Passobjection.csproj", "{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,6 +40,7 @@ Global
 		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Debug|Mixed Platforms.Build.0 = Debug|x64
 		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Debug|Win32.ActiveCfg = Debug|x86
 		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Debug|x64.ActiveCfg = Debug|x86
+		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Debug|x64.Build.0 = Debug|x86
 		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Debug|x86.ActiveCfg = Debug|x86
 		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Debug|x86.Build.0 = Debug|x86
 		{7A5D99EC-81AC-442C-8510-A01322AFDEA6}.Release|Any CPU.ActiveCfg = Release|x86
@@ -91,6 +92,7 @@ Global
 		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Debug|Mixed Platforms.Build.0 = Debug|x64
 		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Debug|Win32.ActiveCfg = Debug|Any CPU
 		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Debug|x64.Build.0 = Debug|Any CPU
 		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6F9C31B-6130-4443-A5CC-EF0664552ECD}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -105,6 +107,7 @@ Global
 		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Debug|Mixed Platforms.Build.0 = Debug|x64
 		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Debug|Win32.ActiveCfg = Debug|Any CPU
 		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Debug|x64.Build.0 = Debug|Any CPU
 		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4508C4D1-85BB-4F3F-9E3B-CC93D231C65D}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -137,6 +140,7 @@ Global
 		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Debug|Mixed Platforms.Build.0 = Debug|x64
 		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Debug|Win32.ActiveCfg = Debug|Any CPU
 		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Debug|x64.Build.0 = Debug|Any CPU
 		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BE50D83-C55B-4836-AEE5-A076C8C27173}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -150,7 +154,8 @@ Global
 		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
 		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|Mixed Platforms.Build.0 = Debug|x64
 		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|Win32.ActiveCfg = Debug|Any CPU
-		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|x64.ActiveCfg = Debug|x64
+		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|x64.Build.0 = Debug|x64
 		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6AD5D30-9E73-4B2E-81A4-89DA5D72B0CF}.Release|Any CPU.Build.0 = Release|Any CPU
@@ -166,6 +171,7 @@ Global
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Debug|Win32.ActiveCfg = Debug|x86
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Debug|Win32.Build.0 = Debug|x86
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D214459D-0A65-49B1-9C98-39462BBF5508}.Debug|x64.Build.0 = Debug|Any CPU
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Debug|x86.ActiveCfg = Debug|x86
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Debug|x86.Build.0 = Debug|x86
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -179,17 +185,19 @@ Global
 		{D214459D-0A65-49B1-9C98-39462BBF5508}.Release|x86.Build.0 = Release|x86
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
-		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|Win32.ActiveCfg = Debug|Any CPU
-		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|x64.ActiveCfg = Debug|x64
+		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|x64.Build.0 = Debug|x64
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Debug|x86.ActiveCfg = Debug|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|Win32.ActiveCfg = Release|Any CPU
-		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|x64.ActiveCfg = Release|Any CPU
+		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|x64.ActiveCfg = Release|x64
+		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|x64.Build.0 = Release|x64
 		{E96BA6FF-B91F-47FC-88DF-CC5CD6DC6BCF}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution

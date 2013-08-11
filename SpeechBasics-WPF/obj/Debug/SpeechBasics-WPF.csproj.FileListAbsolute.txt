@@ -51,9 +51,9 @@ E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.C
 E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
 E:\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
 E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\MediaElement\voice.wma
+E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe.config
 E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe
 E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.pdb
-E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csprojResolveAssemblyReference.cache
 E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.baml
 E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\MainWindow.g.cs
 E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\App.g.cs
@@ -64,4 +64,3 @@ E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.S
 E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.csproj.GenerateResource.Cache
 E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.exe
 E:\playboy\playboy\playboy\SpeechBasics-WPF\obj\Debug\SpeechBasics-WPF.pdb
-E:\playboy\playboy\playboy\SpeechBasics-WPF\bin\Debug\SpeechBasics-WPF.exe.config

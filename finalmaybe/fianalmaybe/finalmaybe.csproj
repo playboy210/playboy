@@ -48,6 +48,17 @@
     <OutputPath>bin\x64\Release\</OutputPath>
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="MahApps.Metro">
       <HintPath>..\packages\MahApps.Metro.0.11.0.38-ALPHA\lib\net40\MahApps.Metro.dll</HintPath>
@@ -183,7 +194,7 @@
       <Project>{9be50d83-c55b-4836-aee5-a076c8c27173}</Project>
       <Name>SpeechBasics-WPF</Name>
     </ProjectReference>
-    <ProjectReference Include="..\objection_recognize\Passobjection\Passobjection.csproj">
+    <ProjectReference Include="..\Passobjection\Passobjection.csproj">
       <Project>{e96ba6ff-b91f-47fc-88df-cc5cd6dc6bcf}</Project>
       <Name>Passobjection</Name>
     </ProjectReference>

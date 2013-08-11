@@ -56,8 +56,8 @@ E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\Microsoft.Kinect.Toolki
 E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\NAudio.dll
 E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
 E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\Microsoft.Kinect.Toolkit.pdb
-E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
 E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\iFlyDotNet.pdb
+E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\Microsoft.Kinect.Toolkit.FaceTracking.pdb
 E:\playboy\playboy\playboy\finalmaybe\schedule\bin\Debug\Microsoft.Windows.Shell.pdb
 E:\playboy\playboy\playboy\finalmaybe\schedule\obj\Debug\eventrecord.csprojResolveAssemblyReference.cache
 E:\playboy\playboy\playboy\finalmaybe\schedule\obj\Debug\MainWindow.baml

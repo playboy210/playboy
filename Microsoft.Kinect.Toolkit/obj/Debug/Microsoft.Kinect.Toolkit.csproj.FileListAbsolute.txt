@@ -47,6 +47,7 @@ E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.T
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.pdb
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.CodeAnalysisLog.xml
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\bin\Debug\Microsoft.Kinect.Toolkit.dll.lastcodeanalysissucceeded
+E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.baml
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\KinectSensorChooserUI.g.cs
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit_MarkupCompile.cache
@@ -55,4 +56,3 @@ E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.T
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csproj.GenerateResource.Cache
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.dll
 E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.pdb
-E:\playboy\playboy\playboy\Microsoft.Kinect.Toolkit\obj\Debug\Microsoft.Kinect.Toolkit.csprojResolveAssemblyReference.cache

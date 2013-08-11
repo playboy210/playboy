@@ -20,10 +20,10 @@ C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WP
 C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\x64\Debug\Monitor.csproj.GenerateResource.Cache
 C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\x64\Debug\Monitor.exe
 C:\Users\Scott Zhuang\Desktop\新建文件夹\新建文件夹\FaceTracking3D2-WPF\obj\x64\Debug\Monitor.pdb
+E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\KinectInteraction170_32.dll
 E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\KinectInteraction170_64.dll
 E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\FaceTrackData.dll
 E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\FaceTrackLib.dll
-E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\KinectInteraction170_32.dll
 E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\Monitor.exe.config
 E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\Monitor.exe
 E:\playboy\playboy\playboy\FaceTracking3D2-WPF\bin\x64\Debug\Monitor.pdb
